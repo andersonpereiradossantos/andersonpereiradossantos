@@ -1,6 +1,6 @@
 <h3>👨🏾‍💻 Sobre mim </h3>
 
-- 💻 &nbsp; Explorando novas tecnologias e desenvolvendo software.
+- 💻 &nbsp; Desenvolvedor e tester há mais de 8 anos.
 - 🎓 &nbsp; Graduado em Sistemas de Informação e Pós-Graduado em Engenharia de Software.
 - 💼 &nbsp; Trabalhando como **desenvolvedor full-stack** na <a href="https://www.acpgroup.com.br/">ACP Group</a>
 - 📚 &nbsp; Aprendendo mais sobre **Python aplicado a ciência de dados e machine learning**.
@@ -17,6 +17,12 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat-square&logo=mysql&logoColor=fff)
 
+**Teste**
+
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat-square&logo=selenium&logoColor=fff)
+  ![JUnit](https://img.shields.io/badge/-Junit-333333?style=flat-square&logo=junit&logoColor=fff)
+  ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat-square&logo=appium&logoColor=fff)
+  
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)

@@ -41,5 +41,5 @@
 <h3> :earth_americas: &nbsp;Minhas redes: </h3> 
 
 [![Linkedin: Anderson Pereira dos Santos](https://img.shields.io/badge/-andersonpereirasantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=andersonpereirasantos)](https://www.linkedin.com/in/andersonpereirasantos/)
-[![Gmail Badge](https://img.shields.io/badge/-andersonpersantos@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonpersantos@gmail.com)](mailto:andersonpersantos@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-andersonpereiradossantos@outlook.com-0173c7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonpereiradossantos@outlook.com)](mailto:andersonpereiradossantos@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/andersonpereiradossantos?label=Seguir&style=social)](https://github.com/andersonpereiradossantos)

@@ -38,7 +38,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse-ide&logoColor=fff)
   ![Eclipse](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=jupyter)
 
-<h3> :earth_americas: &nbsp;Minhas redes: </h3> 
+<h3> :earth_americas: &nbsp;Minhas redes </h3> 
 
 [![Linkedin: Anderson Pereira dos Santos](https://img.shields.io/badge/-andersonpereirasantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=andersonpereirasantos)](https://www.linkedin.com/in/andersonpereirasantos/)
 [![DEV.TO: andersonpereiradossantos](https://img.shields.io/badge/-andersonpereiradossantos-333333?style=flat-square&logo=dev.to&logoColor=white&link=andersonpereirasantos)](https://dev.to/andersonpereiradossantos)

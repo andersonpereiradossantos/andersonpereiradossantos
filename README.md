@@ -21,7 +21,6 @@
 
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat-square&logo=selenium&logoColor=fff)
   ![JUnit](https://img.shields.io/badge/-Junit-333333?style=flat-square&logo=junit&logoColor=fff)
-  ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat-square&logo=appium&logoColor=fff)
   
 **DevOps**
 
@@ -33,10 +32,10 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=visual-studio&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=visual-studio&logoColor=FFF)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse-ide&logoColor=fff)
-  ![Eclipse](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=jupyter)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat-square&logo=IntelliJIDEA)
 
 <h3> :earth_americas: &nbsp;Minhas redes </h3> 
 

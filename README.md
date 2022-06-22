@@ -10,6 +10,7 @@
 **Aplicações e Dados**
 
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat-square&logo=C%2B%2B&logoColor=fff)
+  ![Java#](https://img.shields.io/badge/Java-333333?style=flat-square&logo=Java&logoColor=fff)
   ![PHP#](https://img.shields.io/badge/PHP-333333?style=flat-square&logo=PHP&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)

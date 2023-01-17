@@ -1,6 +1,6 @@
 <h3>👨🏾‍💻 Sobre mim </h3>
 
-- 💻 &nbsp; Desenvolvedor e tester há mais de 8 anos.
+- 💻 &nbsp; Desenvolvedor e tester há mais de 9 anos.
 - 🎓 &nbsp; Graduado em Sistemas de Informação e Pós-Graduado em Engenharia de Software.
 - 💼 &nbsp; Trabalhando como **desenvolvedor full-stack** na <a href="https://www.acpgroup.com.br/">ACP Group</a>
 - 📸 &nbsp; Fotográfo hobbista aos finais de semana.

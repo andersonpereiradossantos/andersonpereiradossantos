@@ -3,7 +3,7 @@
 - 💻 &nbsp; Desenvolvedor e tester há mais de 9 anos.
 - 🎓 &nbsp; Graduado em Sistemas de Informação e Pós-Graduado em Engenharia de Software.
 - 💼 &nbsp; Trabalhando como **desenvolvedor full-stack** na <a href="https://www.acpgroup.com.br/">ACP Group</a>
-- 📸 &nbsp; Fotográfo hobbista aos finais de semana.
+- 📸 &nbsp; Fotográfo hobista aos finais de semana.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -26,14 +26,14 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat-square&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat-square&logo=jira)
   ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=flat-square&logo=redmine)
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=visual-studio&logoColor=FFF)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat-square&logo=visual-studio&logoColor=FFF)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse-ide&logoColor=fff)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat-square&logo=IntelliJIDEA)
 

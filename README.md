@@ -2,7 +2,7 @@
 
 - 💻 &nbsp; Desenvolvedor e tester há mais de 10 anos.
 - 🎓 &nbsp; Graduado em Sistemas de Informação e Pós-Graduado em Engenharia de Software.
-- 💼 &nbsp; Trabalhando como **desenvolvedor full-stack** na <a href="https://www.acpgroup.com.br/">ACP Group</a>
+<!-- - 💼 &nbsp; Trabalhando como **desenvolvedor full-stack** na <a href="https://www.acpgroup.com.br/">ACP Group</a> -->
 - 📸 &nbsp; Fotográfo hobista aos finais de semana.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
